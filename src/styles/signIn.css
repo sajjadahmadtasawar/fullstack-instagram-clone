@@ -1,0 +1,11 @@
+.signIn__headerImage {
+  width: 100px;
+  object-fit: contain;
+  background-color: white;
+  padding: 10px;
+}
+
+.signIn__form {
+  display: flex;
+  flex-direction: column;
+}
